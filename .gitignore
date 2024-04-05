@@ -1,0 +1,5 @@
+*.dany_venv
+.dany_venv/
+.venv
+*.venv/
+.venv
